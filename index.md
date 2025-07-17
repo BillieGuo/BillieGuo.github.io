@@ -1,5 +1,5 @@
 ---
-title: This is a inscripted title
+title: This is an inscripted title
 ---
 
 Hi there!
